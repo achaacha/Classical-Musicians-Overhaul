@@ -1,5 +1,5 @@
 # Classical-Musicians-Overhaul
-Gameplay Overhaul for instruments in the Sims 4
+Gameplay Overhaul for musicians in the Sims 4. The purpose of this mod is to bring a realistic approach to the growth, performance, and lifestyle of Sims who are classical music enthusiasts/performers. It adds multiple elements to the game that expands on both the careers and hobbies of such people, adding a new layer to the Sims 4 that previous expansions have overlooked.
 
 
 ## Classical Musicians Overhaul's features
