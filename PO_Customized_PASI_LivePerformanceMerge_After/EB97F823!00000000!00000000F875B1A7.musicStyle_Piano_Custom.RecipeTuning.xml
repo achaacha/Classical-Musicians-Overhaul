@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="MusicStyle" i="recipe" m="crafting.music" n="musicStyle_Piano_Custom" s="4168462759">
+  <!--musicStyle_Piano_Custom-->
+  <L n="music_tracks">
+    <T>2518812021<!--TEST MusicTrack: music_Track_Piano_Classical_04--></T>
+    <T>2711516596<!--TEST MusicTrack: music_Track_Piano_Custom_05--></T>
+    <T>1777213516<!--MusicTrack: Chopin - Scherzo No. 1--></T>
+    <T>1830900880<!--MusicTrack: Piano Concerto No 1 Sasoribi--></T>
+  </L>
+  <T n="pie_menu_category">3659784414<!--PieMenuCategory: instrument_PlaySong_Custom--></T>
+</I>
+<!--Note: This is altered to test Scripts, music_Track_Piano_Classical_04 needs to be renamed-->
