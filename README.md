@@ -40,3 +40,7 @@ Gameplay Overhaul for instruments in the Sims 4
 - Watch a live Recital
   - Sims will either set up an event to either perform Live OR watch live performance.
   - New venue type! Get to choose between formal or normal outfits only!
+  
+
+# Source Information (Licenses)
+[https://docs.google.com/spreadsheets/d/1GG5lbMLDZP_EYA3sEIaKl7WXfzCUQZ8J00tzWxCRW7s/edit#gid=0] Musical Track Credits, Licenses, and more for Classical Musicians Overhaul
