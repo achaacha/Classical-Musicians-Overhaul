@@ -2,7 +2,7 @@
 Gameplay Overhaul for instruments in the Sims 4
 
 
-# Classical Musicians Overhaul's features
+## Classical Musicians Overhaul's features
 
 - Play Happy Birthday to Sims who are having a Birthday Party
 - Watch a recital live for charity or for money
@@ -22,7 +22,7 @@ Gameplay Overhaul for instruments in the Sims 4
 - Orchestra!!! (Look into how jobs are called, see if there is a way to call multiple sims for one job)
 
 
-# If they are watching a performance live:
+### If they are watching a performance live:
 
 - Performer must be a part of an association that will host them.
 - Performer must have a skill level that’s high on the instrument of choice.
@@ -35,7 +35,7 @@ Gameplay Overhaul for instruments in the Sims 4
 - Sims that aren’t apart of the household must prioritize the seating arrangements of the auditorium, not interacting with other sims.
 - Sims must remain quiet in the auditorium area, but not in other areas.
 
-# Fleshing Out Ideas and First to do on the Agenda
+### Fleshing Out Ideas and First to do on the Agenda
 
 - Watch a live Recital
   - Sims will either set up an event to either perform Live OR watch live performance.
