@@ -23,7 +23,8 @@ Classical Musicians Overhaul
 # Fleshing Out Ideas and First to do on the Agenda
 
 - Watch a live Recital
-  - Sims will either set up an event to either perform Live OR watch live performance
+  - Sims will either set up an event to either perform Live OR watch live performance.
+  - New venue type! Get to choose between formal or normal outfits only!
 
 
 
@@ -44,4 +45,3 @@ Classical Musicians Overhaul
 - Piano sound *must* travel through the auditorium venue. Might need to do some fine tweaking to code to enable this.
 - Sims that aren’t apart of the household must prioritize the seating arrangements of the auditorium, not interacting with other sims.
 - Sims must remain quiet in the auditorium area, but not in other areas.
-- New venue type! Get to choose between formal or normal outfits only!
