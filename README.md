@@ -2,7 +2,7 @@
 Gameplay Overhaul for instruments in the Sims 4
 
 
-Classical Musicians Overhaul
+# Classical Musicians Overhaul's features
 
 - Play Happy Birthday to Sims who are having a Birthday Party
 - Watch a recital live for charity or for money
@@ -13,24 +13,13 @@ Classical Musicians Overhaul
 - (Experimental) Duets for Other Instruments and Piano
 - Harpsichord???
 - New Aspirations!
-- Whim: Play Piano based on moods
+- Whim: Play (music profession of choice) based on moods
 - Revamp Serenades
 - Shoutout to TwoSetViolin for violins
 - Have venues hire you as a performer
-- Twinkle Twinkle Little Star “Level Reflection” (unlocks at level 2), TTS changes based on skill.
-
-
-# Fleshing Out Ideas and First to do on the Agenda
-
-- Watch a live Recital
-  - Sims will either set up an event to either perform Live OR watch live performance.
-  - New venue type! Get to choose between formal or normal outfits only!
-
-
-
-
-
-
+- Twinkle Twinkle Little Star “Level Reflection” (unlocks at level 2), TTS changes based on skill. (Piano only)
+- Opera performances (For players who have the expansion pack that allows singing)
+- Orchestra!!! (Look into how jobs are called, see if there is a way to call multiple sims for one job)
 
 
 # If they are watching a performance live:
@@ -45,3 +34,9 @@ Classical Musicians Overhaul
 - Piano sound *must* travel through the auditorium venue. Might need to do some fine tweaking to code to enable this.
 - Sims that aren’t apart of the household must prioritize the seating arrangements of the auditorium, not interacting with other sims.
 - Sims must remain quiet in the auditorium area, but not in other areas.
+
+# Fleshing Out Ideas and First to do on the Agenda
+
+- Watch a live Recital
+  - Sims will either set up an event to either perform Live OR watch live performance.
+  - New venue type! Get to choose between formal or normal outfits only!
