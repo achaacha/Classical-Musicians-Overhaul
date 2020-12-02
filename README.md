@@ -43,4 +43,4 @@ Gameplay Overhaul for instruments in the Sims 4
   
 
 # Source Information (Licenses)
-[https://docs.google.com/spreadsheets/d/1GG5lbMLDZP_EYA3sEIaKl7WXfzCUQZ8J00tzWxCRW7s/edit#gid=0] Musical Track Credits, Licenses, and more for Classical Musicians Overhaul
+[Musical Track Credits, Licenses, and more for Classical Musicians Overhaul](https://docs.google.com/spreadsheets/d/1GG5lbMLDZP_EYA3sEIaKl7WXfzCUQZ8J00tzWxCRW7s/edit#gid=0)
